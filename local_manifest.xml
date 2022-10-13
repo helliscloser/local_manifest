@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/xiaomi/davinci" name="CherishOS-Devices/android_device_xiaomi_davinci.git" remote="github" revision="tiramisu" />
+ <project path="device/xiaomi/sm6150-common" name="CherishOS-Devices/android_device_xiaomi_sm6150-common.git" remote="github" revision="tiramisu" />
+ <project path="vendor/xiaomi" name="CherishOS-Devices/vendor_davinci.git" remote="github" revision="ch/ch13" />
+ <project path="kernel/xiaomi/sm6150" name="helliscloser/kernel_xiaomi_sm6150.git" remote="github" revision="Vantom292" />
+ 
+</manifest>
