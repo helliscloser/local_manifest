@@ -15,7 +15,7 @@
  <project path="kernel/xiaomi/sm6150" name="helliscloser/kernel_xiaomi_sm6150" remote="hub" revision="13"/>
 
  <!-- Clang -->
- <project path="prebuilts/clang/host/linux-x86/clang-playground" name="varunhardgamer/trb_clang" remote="lab" revision="16"/>
+ <project path="prebuilts/clang/host/linux-x86/trb_clang" name="varunhardgamer/trb_clang" remote="lab" revision="16"/>
 
 <!-- MIUICAM -->
  <project path="vendor/xiaomi/miuicamera" name="helliscloser/vendor_xiaomi_miuicamera" remote="lab" revision="leica"/>
